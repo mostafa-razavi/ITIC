@@ -13,7 +13,7 @@ The isothermal-isochoric integration (ITIC) method is a viable method for vapor-
 ### Installing
 
 * Download the repository on your local machine
-* Compile the ITIC executable file by running bash compile.sh in src/ directory. You will need gfortran installed on your computer
+* Compile the ITIC executable file by running ```bash compile.sh``` in src/ directory. You will need gfortran installed on your computer
 
 ### Executing program
 
