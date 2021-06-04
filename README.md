@@ -2,10 +2,6 @@
 The ITIC method to calculate VLE data of pure fluids from MD or MC simulation data 
 
 
-# Project Title
-
-Simple overview of use/purpose.
-
 ## Description
 
 The isothermal-isochoric integration (ITIC) method is a viable method for vapor-liquid coexistence calculation by molecular simulation. The ITIC method proves to be much more effective compared to GEMC and GCMC methods for vapor-liquid coexistence calculations at reduced temperatures of 0.45–0.6, which are important for practical applications. Furthermore, the ITIC method lends itself to application with molecular dynamics (MD) as well as MC, advancing the prospect of simulation results that are quantitatively consistent across software platforms.
