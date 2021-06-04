@@ -21,7 +21,7 @@ The isothermal-isochoric integration (ITIC) method is a viable method for vapor-
 * Run NVT molecular simulation (MD or MC) to obtain Z and Ures data at the ITIC points determined in the previous step
 * Process simlation data into a data file with a format similar to example files (see C4/C4_MiPPE.zures for example)
 * Modify the first four variables in the ITIC.sh script (see C4/ITIC.sh for example)
-* Run bash ITIC.sh
+* Run ```bash ITIC.sh```
 
 
 If you have a question or comment, please feel free to contact S. Mostafa Razavi at sr87@uakron.edu
