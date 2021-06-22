@@ -11,7 +11,7 @@ parameter(nMaxData=150)
 
 
 double precision :: Tfile(nMaxData),rhofile(nMaxData),Zfile(nMaxData),Uresfile(nMaxData)
-
+double precision :: MW
 double precision :: Ures_IT(20)
 double precision :: Ures_IT_vr(20), Ures_IT_vr2(20)
 double precision :: Ures_IC(maxICs,maxICTs)	
